@@ -9,6 +9,7 @@ I will be following allong with parts of Corey Shafer's code on youtube to ensur
 the learning process. 
 
 www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
-github.com/CoreyMSchafer
+
+www.github.com/CoreyMSchafer
 
 
