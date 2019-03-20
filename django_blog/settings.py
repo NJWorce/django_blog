@@ -122,4 +122,12 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media') #changed the media root to base dir
+MEDIA_URL = '/media/'                        # and the url to 'media'
+
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
+LOGIN_REDIRECT_URL = 'blog-home' # name I gave this the path in urls
+
+LOGIN_URL = 'login'   # this is what i changed after the login required dec
+                      # was routing the wrong way. 
